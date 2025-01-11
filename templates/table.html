@@ -1,0 +1,24 @@
+    <!-- Новая таблица: Calibration Signal Generator Output -->
+    <h2>Calibration Signal Generator Output</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Frequency, MHz</th>
+                <th>Calibration field strength, dB(mV/m)</th>
+                <th>Antenna factor, dB(1/m)</th>
+                <th>Signal generator output, dB(mV)</th>
+                <th>Signal generator output, dBm</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for row in calibration_table %}
+                <tr>
+                    <td>{{ row["Frequency, MHz"] }}</td>
+                    <td>{{ row["Calibration field strength, dB(mV/m)"] }}</td>
+                    <td>{{ row["Antenna factor, dB(1/m)"] }}</td>
+                    <td>{{ row["Signal generator output, dB(mV)"] }}</td>
+                    <td>{{ row["Signal generator output, dBm"] }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>

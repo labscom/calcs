@@ -1,0 +1,50 @@
+[
+    {
+        "HL-number": "",
+        "Antenna type": "",
+        "Frequency, MHz": "",
+        "Antenna factor": ""
+    },
+    {
+        "HL-number": "0032",
+        "Antenna type": "Biconical",
+        "Frequency, MHz": "30-200",
+        "Antenna factor": "17.70"
+    },
+    {
+        "HL-number": "0566",
+        "Antenna type": "Biconical",
+        "Frequency, MHz": "30-200",
+        "Antenna factor": "17.73"
+    },
+    {
+        "HL-number": "0357",
+        "Antenna type": "Biconical",
+        "Frequency, MHz": "30-200",
+        "Antenna factor": "15.00"
+    },
+    {
+        "HL-number": "5834",
+        "Antenna type": "Biconical",
+        "Frequency, MHz": "30-200",
+        "Antenna factor": "15.70"
+    },
+    {
+        "HL-number": "4423",
+        "Antenna type": "High gain horn",
+        "Frequency, MHz": "200-1000",
+        "Antenna factor": "23.30"
+    },
+    {
+        "HL-number": "4114",
+        "Antenna type": "Double ridged horn",
+        "Frequency, MHz": "1000-18000",
+        "Antenna factor": "42.20"
+    },
+    {
+        "HL-number": "4474",
+        "Antenna type": "Double ridged horn",
+        "Frequency, MHz": "1000-18000",
+        "Antenna factor": "43.50"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "Frequency, MHz": "",
+        "Antenna polarization": "",
+        "Limit, dBuV": ""
+    },
+    {
+        "Frequency, MHz": "2.000",
+        "Antenna polarization": "Vertical",
+        "Limit, dBuV": "24.0"
+    },
+    {
+        "Frequency, MHz": "15.000",
+        "Antenna polarization": "Vertical",
+        "Limit, dBuV": "24.0"
+    },
+    {
+        "Frequency, MHz": "30.000",
+        "Antenna polarization": "Vertical",
+        "Limit, dBuV": "24.0"
+    },
+    {
+        "Frequency, MHz": "200.000",
+        "Antenna polarization": "Vertical",
+        "Limit, dBuV": "30.0"
+    },
+    {
+        "Frequency, MHz": "1000.000",
+        "Antenna polarization": "Vertical",
+        "Limit, dBuV": "44.0"
+    },
+    {
+        "Frequency, MHz": "18000.000",
+        "Antenna polarization": "Vertical",
+        "Limit, dBuV": "69.0"
+    }
+]
